@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет! Меня зовут Сергей
 
-<!--
-**Adel1z/Adel1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Unity Developer | C# Programmer | Game Dev Enthusiast
 
-Here are some ideas to get you started:
+### 📫 Контакты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Почта: adel1z1511@gmail.com
+Telegram: @Adel1zL
+
+### 🛠️ Мой стек технологий:  
+
+- **Unity** (C#, UI, Animation, Sqlite, ScriptableObjects)  
+- **C#** (ООП, SOLID, GRASP, Visual Studio)  
+- **Паттерны** (Strategy, State, EntryPoint)
+- **Version Control** (Git, GitHub)  
+- **2D/3D** (Знаю основы Aseprite, Adobe Illustrator)  
+- **Дополнительно** (знание алгоритмов, C++)  
+
+### 🎮 Мои проекты:  
+
+1. **I control my life, but...**
+   - **Описание**: Небольшая игра-платформер, написанная в команде из 2 человек, для геймджема в 2020 году. 
+   - **Вклад**: Я участвовал в разработке концепции игры, левел-дизайне, разработке механики врагов на одном из уровней, поиском и созданием ассетов для игры.
+   - **Технологии**: Unity, C#, Aseprite.  
+   - **Ссылка**: https://rabidusgames.itch.io/i-control-my-life-but
+
+1. **Colonial Rush Idle** \[Prototype: WebGL\]
+   - **Описание**: 2D Idle игра в сеттинге колонизации Нового Света. Игроку предстоит стать губернатором колонии, развивать производства и продвигаться по службе. 
+   - **Технологии**: Unity (UI, Animation, Coroutine, ScriptableObjects), C#, Паттерны (State)
+   - **Ссылка**: https://adel1z.itch.io/colonial-rush-idle
+
+### 💼 Опыт работы:  
+
+- **НТП Криптософт** (16.11.2020 - по сей день) – Специалист (Инженер-программист)  
+  - Разрабатывал прикладное программное обеспечение (браузер под внутреннюю операционную систему), интерфейс приложений менеджер сертификатов и конфигурация сертификатов.
+  - Использовал Visual Studio, C#, C++, Qt Creator, Git
+
+### 🎓 Образование:  
+
+- **ФГБОУ ВО Пензенские государственный университет** - 09.03.04 Программная инженерия (2018-2022)
