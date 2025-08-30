@@ -55,6 +55,6 @@ Telegram: @Adel1zL
 
 ## Пример 1: Popup окошко с использованием DOTween
 
-![[Popup Show Animation.gif]]
-![[Popup HideAnimation.gif]]
-![[PopupButton OnHover, OnClick.gif]]
+![Анимация появления Popup-окошка](Gifs/Popup Show Animation.gif)
+![Анимация исчезновения Popup-окошка](Gifs/Popup Hide Animation.gif)
+![Анимация взаимодействия с кнопкой](PopupButton OnHover, OnClick.gif)
