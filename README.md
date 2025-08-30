@@ -48,3 +48,13 @@ Telegram: @Adel1zL
 ### 🎓 Образование:  
 
 - **ФГБОУ ВО Пензенский государственный университет** - 09.03.04 Программная инженерия (2018-2022)
+
+---
+
+### 🔧 Технические демо
+
+## Пример 1: Popup окошко с использованием DOTween
+
+![[Popup Show Animation.gif]]
+![[Popup HideAnimation.gif]]
+![[PopupButton OnHover, OnClick.gif]]
