@@ -37,9 +37,9 @@
 
 ![Пролог](Gifs/Game_Jam_Prologue.png)
 <div style="display: flex; gap: 10px; justify-content: center; width: 100%;">
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_First_Level.png" width="200" height="150" />
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Second_Level.png" width="200" height="150" />
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Third_Level.png" width="200" height="150" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_First_Level.png" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Second_Level.png" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Third_Level.png"/>
 </div>
 
 2. **Colonial Rush Idle** \[Prototype: WebGL\]
@@ -52,10 +52,10 @@
 **Основная сцена игры:**
 
 ![Основная сцена игры](Gifs/Colonial_Rush_Idle_Primer.gif)
-<div style="display: flex; gap: 10px; justify-content: center; width: 100%;">
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Goods_Produce_Primer.gif" width="200" height="150" />
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Mission_Complete_Primer.gif" width="200" height="150" />
-<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Getting_Rewards_Primer.gif" width="200" height="150" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 100%; margin-top: 20px;">
+  <img src="Gifs/Goods_Produce_Primer.gif" alt="Производство товаров" style="flex: 1; min-width: 200px; max-width: 300px; height: auto;"/>
+  <img src="Gifs/Mission_Complete_Primer.gif" alt="Завершение миссии" style="flex: 1; min-width: 200px; max-width: 300px; height: auto;"/>
+  <img src="Gifs/Getting_Rewards_Primer.gif" alt="Получение наград" style="flex: 1; min-width: 200px; max-width: 300px; height: auto;"/>
 </div>
 
 ---
