@@ -2,10 +2,7 @@
 
 ## Unity Developer | C# Programmer | Game Dev Enthusiast
 
-### 📫 Контакты:
-
-Почта: adel1z1511@gmail.com
-Telegram: @Adel1zL
+**Email**: adel1z1511@gmail.com
 
 ---
 ### 🛠️ Мой стек технологий:  
@@ -18,20 +15,6 @@ Telegram: @Adel1zL
 - **Дополнительно** (знание алгоритмов, C++)  
 
 ---
-### 🎮 Мои проекты:  
-
-1. **I control my life, but...**
-   - **Описание**: Небольшая игра-платформер, написанная в команде из 2 человек, для геймджема в 2020 году. 
-   - **Вклад**: Я участвовал в разработке концепции игры, левел-дизайне, разработке механики врагов на одном из уровней, поиском и созданием ассетов для игры.
-   - **Технологии**: Unity, C#, Aseprite.  
-   - **Ссылка**: https://rabidusgames.itch.io/i-control-my-life-but
-
-2. **Colonial Rush Idle** \[Prototype: WebGL\]
-   - **Описание**: 2D Idle игра в сеттинге колонизации Нового Света. Игроку предстоит стать губернатором колонии, открывать и развивать производства и продвигаться по службе. 
-   - **Технологии**: Unity (UI, Animation, Coroutine, ScriptableObjects), C#, Паттерны (State)
-   - **Ссылка**: https://adel1z.itch.io/colonial-rush-idle
-
----
 ### 💼 Опыт работы:  
 
 - **НТП Криптософт** (16.11.2020 - по н. в.) – Специалист (Инженер-программист)  
@@ -42,6 +25,38 @@ Telegram: @Adel1zL
 	- Сборка и запуск приложений под Windows и Linux.
 	- Портирование и рефакторинг кода.
 	- Написание технической документации.
+
+---
+### 🎮 Мои проекты:  
+
+1. **I control my life, but...**
+   - **Описание**: Небольшая игра-платформер, написанная в команде из 2 человек, для геймджема в 2020 году. 
+   - **Вклад**: Я участвовал в разработке концепции игры, левел-дизайне, разработке механики врагов на одном из уровней, поиском и созданием ассетов для игры.
+   - **Технологии**: Unity, C#, Aseprite.  
+   - **Ссылка**: https://rabidusgames.itch.io/i-control-my-life-but
+
+![Пролог](Gifs/Game_Jam_Prologue.png)
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_First_Level.png" width="200" height="150" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Second_Level.png" width="200" height="150" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Third_Level.png" width="200" height="150" />
+</div>
+
+2. **Colonial Rush Idle** \[Prototype: WebGL\]
+   - **Описание**: 2D Idle игра в сеттинге колонизации Нового Света. Игроку предстоит стать губернатором колонии, открывать и развивать производства и продвигаться по службе. 
+   - **Технологии**: Unity (UI, Animation, Coroutine, ScriptableObjects), C#, Паттерны (State)
+   - **Ссылка**: https://adel1z.itch.io/colonial-rush-idle
+
+Последнее время itch.io работает с перебоями, поэтому ниже я оставлю несколько демо роликов:
+
+**Основная сцена игры:**
+
+![Основная сцена игры](Gifs/Colonial_Rush_Idle_Primer.gif)
+<div style="display: flex; gap: 10px; justify-content: center;">
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Goods_Produce_Primer.gif" width="200" height="150" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Mission_Complete_Primer.gif" width="200" height="150" />
+<img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Getting_Rewards_Primer.gif" width="200" height="150" />
+</div>
 
 ---
 ### 🎓 Образование:  
@@ -80,3 +95,8 @@ Telegram: @Adel1zL
 ![Анимация взаимодействия с кнопкой](Gifs/PopupButton_OnHover_OnClick.gif)
 
 ---
+### 📫 Контакты:
+
+**Email**: adel1z1511@gmail.com
+**Telegram**: @Adel1zL
+**Habr Карьера**: https://career.habr.com/adeliz
