@@ -11,8 +11,8 @@
 - **C#** (ООП, SOLID, GRASP, Visual Studio)  
 - **Паттерны** (Strategy, State, EntryPoint)
 - **Version Control** (Git, GitHub)  
-- **2D/3D** (Знаю основы Aseprite, Adobe Illustrator)  
-- **Дополнительно** (знание алгоритмов, C++)  
+- **2D/3D** (Базовый уровень Aseprite, Adobe Illustrator)  
+- **Дополнительно** (Знание алгоритмов, C++)  
 
 ---
 ### 💼 Опыт работы:  
@@ -36,7 +36,7 @@
    - **Ссылка**: https://rabidusgames.itch.io/i-control-my-life-but
 
 ![Пролог](Gifs/Game_Jam_Prologue.png)
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center; width: 100%;">
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_First_Level.png" width="200" height="150" />
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Second_Level.png" width="200" height="150" />
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Game_Jam_Third_Level.png" width="200" height="150" />
@@ -52,7 +52,7 @@
 **Основная сцена игры:**
 
 ![Основная сцена игры](Gifs/Colonial_Rush_Idle_Primer.gif)
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center; width: 100%;">
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Goods_Produce_Primer.gif" width="200" height="150" />
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Mission_Complete_Primer.gif" width="200" height="150" />
 <img style="flex: 1 1 auto; min-width: 200px; height: auto;" src="Gifs/Getting_Rewards_Primer.gif" width="200" height="150" />
